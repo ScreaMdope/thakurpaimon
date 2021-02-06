@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'NzkzNTI5MzU2MjczMDU3ODAy.X-tlzQ.ZK5-t1wg9B6mwfOj03sXEEdzf9Y',
+        token: 'THAKUR GANDU',
         prefix: '*',
         activity: 'PREFIX BY AAKUZZI',
     },
